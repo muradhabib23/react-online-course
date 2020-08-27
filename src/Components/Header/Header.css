@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    text-align: left;
+    background-color:#333333;
+}
+.header nav{
+    line-height: 70px;
+    font-size: 20px;
+    margin-left: 200px; 
+}
+nav a{
+    text-decoration: none;
+    color: palegoldenrod;
+    margin-right: 20px;
+    padding: 5px;
+}
+nav a:hover{
+    background-color:cadetblue ;
+}
+
+.search{
+    margin-left: 650px;
+    margin-top: 20px;
+}
